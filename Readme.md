@@ -18,7 +18,6 @@
 * [Triagers](#triagers)
 * [License](#license)
 
-
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
 [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
@@ -35,7 +34,7 @@ app.get('/', function (req, res) {
 
 app.listen(3000)
 ```
-
+# Ajeet Sharma
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
